@@ -1,4 +1,4 @@
-# 👋 Hey, it's Ibnat here!
+# <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="25" height="25"> Hey, it's Ibnat here!
 
 <img align="right" alt="Tecna, the fairy of technology from Winx Club" width="300" src="https://64.media.tumblr.com/b6d67015c04b0ba638e5f0a176d86854/50c22d78dc35bea0-c2/s540x810/c92a6eff1c9c00cb6121f0a4451261076634f4df.gif">
 
@@ -71,15 +71,16 @@
 </div>
 
 
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/ibnat-zareen-8b79a7260)
-
----
-
 ## View all of my repos
 
   <a href="https://github.com/ibnatz?tab=repositories">
     <img src="https://img.shields.io/badge/All%20Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
+
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/ibnat-zareen-8b79a7260)
 
