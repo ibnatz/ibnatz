@@ -2,7 +2,7 @@
 
 <img align="right" alt="Tecna, the fairy of technology from Winx Club" width="200" src="https://i.pinimg.com/originals/42/cc/36/42cc363f3d97d87a94cbb6d36dd5a9dc.gif">
 
-## About me
+
 
 🔭 I am an explorer of ThreeJS as a hobby, but a committed learner in MERN stack.
 
