@@ -1,6 +1,6 @@
-# <img src="https://media.tenor.com/gYiMFYc7yOkAAAAj/green-heart-green.gif" width="25" height="25"> Hey, it's Ibnat here!
+# Hey, it's Ibnat here! <img src="https://media.tenor.com/gYiMFYc7yOkAAAAj/green-heart-green.gif" width="25" height="25">
 
-<img align="right" alt="Tecna, the fairy of technology from Winx Club" width="300" src="https://64.media.tumblr.com/b6d67015c04b0ba638e5f0a176d86854/50c22d78dc35bea0-c2/s540x810/c92a6eff1c9c00cb6121f0a4451261076634f4df.gif">
+<img align="right" alt="Tecna, the fairy of technology from Winx Club" width="200" src="https://64.media.tumblr.com/b6d67015c04b0ba638e5f0a176d86854/50c22d78dc35bea0-c2/s540x810/c92a6eff1c9c00cb6121f0a4451261076634f4df.gif">
 
 ## About me
 
@@ -49,22 +49,20 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats
+
+## My ongoing journey
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibnatz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnatz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnatz&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibnatz&theme=react-dark&hide_border=true" alt="Contribution Graph" />
@@ -78,7 +76,6 @@
   </a>
 
 
----
 
 ## 📫 Connect with me
 
