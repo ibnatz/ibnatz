@@ -1,6 +1,6 @@
 # Hey, it's Ibnat here! <img src="https://media.tenor.com/gYiMFYc7yOkAAAAj/green-heart-green.gif" width="25" height="25">
 
-<img align="right" alt="Tecna, the fairy of technology from Winx Club" width="200" src="https://64.media.tumblr.com/b6d67015c04b0ba638e5f0a176d86854/50c22d78dc35bea0-c2/s540x810/c92a6eff1c9c00cb6121f0a4451261076634f4df.gif">
+<img align="right" alt="Tecna, the fairy of technology from Winx Club" width="200" src="https://i.pinimg.com/originals/42/cc/36/42cc363f3d97d87a94cbb6d36dd5a9dc.gif">
 
 ## About me
 
