@@ -8,9 +8,9 @@
 
 🔒 I'm currently embarking on a journey of ML/AI
 
-⭐ I was obsessed with Astrophysics as a teenager, besides my main interest in Academic Psychology-adjacent, interdisciplinary research ^^
+⭐ Growing up, I had been obsessed with Astrophysics, with my main interest being in the Academic Psychology-adjacent, interdisciplinary research peaking in my late teens, which is now my full-time passion ^^
 
-🔗 I'm open to collaborating on open-source projects or any exciting web/app projects, as always, as it helps me expand on my coding skills.
+🔗 I'm open to collaborating on open-source projects or any exciting web/app projects, as always, as it helps me expand on my coding skills!
 
 ## Base languages & library focus
 
