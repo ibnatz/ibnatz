@@ -8,9 +8,9 @@
 
 🔒 I'm currently embarking on a journey of ML/AI
 
-⭐ I would happily die on the Leetcode hill, if you ask me!
+⭐ I was obsessed with Astrophysics as a teenager, besides my main interest in Academic Psychology-adjacent, interdisciplinary research ^^
 
-🔗 I'm open to collaborating on open-source projects or any exciting web/app projects, as always, as it helps me learn.
+🔗 I'm open to collaborating on open-source projects or any exciting web/app projects, as always, as it helps me expand on my coding skills.
 
 ## Base languages & library focus
 
